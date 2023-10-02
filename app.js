@@ -375,4 +375,4 @@ function bonusThirteen() {
 }
 let arrayOfArrays = bonusThirteen();
 console.log(arrayOfArrays);
-
+// trying to make an array of arrays, each containing matching cuisine types. if success get .length of each array and filter for which length === 1.
